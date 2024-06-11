@@ -134,3 +134,4 @@ D:\Internship\Compucare\AssetManagement\AssetManagement\obj\Debug\net8.0\refint\
 D:\Internship\Compucare\AssetManagement\AssetManagement\obj\Debug\net8.0\AssetManagement.pdb
 D:\Internship\Compucare\AssetManagement\AssetManagement\obj\Debug\net8.0\AssetManagement.genruntimeconfig.cache
 D:\Internship\Compucare\AssetManagement\AssetManagement\obj\Debug\net8.0\ref\AssetManagement.dll
+D:\Internship\Compucare\AssetManagement\AssetManagement\obj\Debug\net8.0\AssetManagement.sourcelink.json
