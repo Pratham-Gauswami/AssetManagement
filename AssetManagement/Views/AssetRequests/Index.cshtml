@@ -1,0 +1,42 @@
+﻿@model List<AssetManagement.Models.VwAssetRequestsAndEmployeeInfo>
+
+@{
+    ViewData["Title"] = "Asset Requests";
+}
+
+<h1>Asset Requests</h1>
+
+<table class="table table-striped table-bordered">
+    <thead class="thead-dark">
+        <tr>
+            <th>Request ID</th>
+            <th>Employee ID</th>
+            <th>Asset Name</th>
+            <th>Asset Description</th>
+            <th>Reason</th>
+            <th>Date of Request</th>
+            <th>Employee Name</th>
+            <th>Phone No</th>
+            <th>Email</th>
+            <th>Department</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var assetRequest in Model)
+        {
+            <tr>
+                <td>@assetRequest.RequestId</td>
+                <td>@assetRequest.EmpId</td>
+                <td>@assetRequest.ReqAssetName</td>
+                <td>@assetRequest.AssetDescription</td>
+                <td>@assetRequest.Reason</td>
+                <td>@assetRequest.DateOfRequest.ToShortDateString()</td>
+                <td>@assetRequest.EmployeeName</td>
+                <td>@assetRequest.PhoneNo</td>
+                <td>@assetRequest.Email</td>
+                <td>@assetRequest.Department</td>
+            </tr>
+        }
+    </tbody>
+</table>
+

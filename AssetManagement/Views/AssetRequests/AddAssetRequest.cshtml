@@ -1,0 +1,29 @@
+﻿@model AssetManagement.Models.AddAssetRequestViewModel
+@{
+    ViewData["Title"] = "Add Asset Request";
+}
+
+<h1>Add Asset Request</h1>
+<form method="post" action="AddAssetRequest" class="mt-5">
+    
+    <div class="mb-3">
+        <label for="EmpId" class="form-label">Employee ID</label>
+        <input type="text" id="EmpId" name="EmpId" class="form-control" asp-for="EmpId">
+    </div>
+    <div class="mb-3">
+        <label for="ReqAssetName" class="form-label">Asset Name</label>
+        <input type="text" id="ReqAssetName" name="ReqAssetName" class="form-control" asp-for="ReqAssetName">
+    </div>
+    <div class="mb-3">
+        <label for="AssetDescription" class="form-label">Asset Description</label>
+        <input type="text" id="AssetDescription" name="AssetDescription" class="form-control" asp-for="AssetDescription">
+    </div>
+    <div class="mb-3">
+        <label for="Reason" class="form-label">Reason</label>
+        <input type="text" id="Reason" name="Reason" class="form-control" asp-for="Reason">
+    </div>
+    
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+

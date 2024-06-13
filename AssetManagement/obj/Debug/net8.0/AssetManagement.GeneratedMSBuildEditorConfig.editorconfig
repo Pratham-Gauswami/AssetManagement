@@ -18,6 +18,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Internship\Compucare\AssetManagement\AssetManagement
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Internship/Compucare/AssetManagement/AssetManagement/Views/AssetRequests/AddAssetRequest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRSZXF1ZXN0c1xBZGRBc3NldFJlcXVlc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Internship/Compucare/AssetManagement/AssetManagement/Views/AssetRequests/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRSZXF1ZXN0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Internship/Compucare/AssetManagement/AssetManagement/Views/Assets/AddAsset.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRzXEFkZEFzc2V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Internship/Compucare/AssetManagement/AssetManagement/Views/Assets/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Internship/Compucare/AssetManagement/AssetManagement/Views/Assets/View.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRzXFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Internship/Compucare/AssetManagement/AssetManagement/Views/Employees/AddEmp.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXEFkZEVtcC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

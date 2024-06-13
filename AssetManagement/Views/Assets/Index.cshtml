@@ -1,0 +1,39 @@
+﻿@model List<AssetManagement.Models.Asset>
+
+@{
+}
+
+<h1>Assets</h1>
+
+<table class="table table-striped table-bordered">
+    <thead class="thead-dark">
+        <tr>
+            <th>Asset ID</th>
+            <th>Name</th>
+            <th>Model No</th>
+            <th>Serial No</th>
+            <th>Make Company</th>
+            <th>Value</th>
+            <th>Status</th>
+            
+            <th> </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var asset in Model)
+        {
+            <tr>
+                <td>@asset.AssetId</td>
+                <td>@asset.AssetName</td>
+                <td>@asset.ModelNo</td>
+                <td>@asset.SerialNo</td>
+                <td>@asset.MakeCompany</td>
+                <td>@asset.Value</td>
+                <td>@asset.Status</td>
+                
+                <td><a href="@Url.Action("View", "Assets", new { AssetId = asset.AssetId })">View</a></td>
+
+            </tr>
+        }
+    </tbody>
+</table>

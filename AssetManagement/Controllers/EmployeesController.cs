@@ -1,5 +1,4 @@
-﻿using AssetManagement.Models;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 namespace AssetManagement.Controllers
@@ -104,5 +103,20 @@ namespace AssetManagement.Controllers
             return RedirectToAction("Index");
         }
 
+        [HttpPost]
+        public async Task<IActionResult> Delete(UpdateEmployeeViewModel model)
+        {
+            var employee = await AssetprojContext.Employees.FindAsync(model.EmployeeId);
+
+            if (employee != null)
+            {
+                AssetprojContext.Employees.Remove(employee);
+                await AssetprojContext.SaveChangesAsync();
+
+                return RedirectToAction("Index");
+            }
+            return RedirectToAction("Index");
+
+        }
     }
 }

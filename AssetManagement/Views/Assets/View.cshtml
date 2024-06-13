@@ -1,0 +1,46 @@
+﻿@model AssetManagement.Models.UpdateAssetViewModel
+
+@{
+}
+
+<h1>Update Asset</h1>
+<form method="post" action="AddAsset" class="mt-5">
+    <div class="mb-3">
+        <label for="" class="form-label">Asset ID</label>
+        <input type="text" class="form-control" asp-for="AssetId">
+    </div>
+    <div class="mb-3">
+        <label for="" class="form-label">Name</label>
+        <input type="text" class="form-control" asp-for="AssetName">
+    </div>
+
+    <div class="mb-3">
+        <label for="" class="form-label">Model No</label>
+        <input type="text" class="form-control" asp-for="ModelNo">
+    </div>
+    <div class="mb-3">
+        <label for="" class="form-label">Serial No</label>
+        <input type="text" class="form-control" asp-for="SerialNo">
+    </div>
+
+    <div class="mb-3">
+        <label for="" class="form-label">Make Company</label>
+        <input type="text" class="form-control" asp-for="MakeCompany">
+    </div>
+    <div class="mb-3">
+        <label for="" class="form-label">Value</label>
+        <input type="number" class="form-control" asp-for="Value">
+    </div>
+    <div class="mb-3">
+        <label for="" class="form-label">Status</label>
+        <input type="text" class="form-control" asp-for="Status">
+    </div>
+
+
+
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+    <button type="submit" class="btn btn-danger"
+            asp-action="Delete"
+            asp-controller="Assets">Delete</button>
+</form>

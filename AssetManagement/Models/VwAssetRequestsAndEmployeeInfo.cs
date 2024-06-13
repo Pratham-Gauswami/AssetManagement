@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace AssetManagement.Models;
 
-public partial class AssetRequest
+public partial class VwAssetRequestsAndEmployeeInfo
 {
     public string RequestId { get; set; } = null!;
 
@@ -17,5 +17,11 @@ public partial class AssetRequest
 
     public DateTime DateOfRequest { get; set; }
 
-    public virtual Employee Emp { get; set; } = null!;
+    public string EmployeeName { get; set; } = null!;
+
+    public string PhoneNo { get; set; } = null!;
+
+    public string Email { get; set; } = null!;
+
+    public string Department { get; set; } = null!;
 }
