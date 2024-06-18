@@ -1,10 +1,10 @@
-﻿@model AssetManagement.Models.AddEmployeeViewModel
+@model AssetManagement.Models.AddEmployeeViewModel
 
 @{
 }
 
 <h1>Add Employee</h1>
-<form method="post" action="AddEmp" class="mt-5">
+<form method="post" asp-action="AddEmp" asp-controller="EmployeesController" class="mt-5">
     <div class="mb-3">
         <label for="" class="form-label">Employee ID</label>
         <input type="text" class="form-control"  asp-for="EmployeeId">

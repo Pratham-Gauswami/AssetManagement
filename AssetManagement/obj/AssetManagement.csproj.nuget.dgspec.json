@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Internship\\Compucare\\AssetManagement\\AssetManagement\\AssetManagement.csproj": {}
+    "/Users/prathamgauswami/Desktop/AssetManager/AssetManagement/AssetManagement/AssetManagement.csproj": {}
   },
   "projects": {
-    "D:\\Internship\\Compucare\\AssetManagement\\AssetManagement\\AssetManagement.csproj": {
+    "/Users/prathamgauswami/Desktop/AssetManager/AssetManagement/AssetManagement/AssetManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Internship\\Compucare\\AssetManagement\\AssetManagement\\AssetManagement.csproj",
+        "projectUniqueName": "/Users/prathamgauswami/Desktop/AssetManager/AssetManagement/AssetManagement/AssetManagement.csproj",
         "projectName": "AssetManagement",
-        "projectPath": "D:\\Internship\\Compucare\\AssetManagement\\AssetManagement\\AssetManagement.csproj",
-        "packagesPath": "C:\\Users\\jhata\\.nuget\\packages\\",
-        "outputPath": "D:\\Internship\\Compucare\\AssetManagement\\AssetManagement\\obj\\",
+        "projectPath": "/Users/prathamgauswami/Desktop/AssetManager/AssetManagement/AssetManagement/AssetManagement.csproj",
+        "packagesPath": "/Users/prathamgauswami/.nuget/packages/",
+        "outputPath": "/Users/prathamgauswami/Desktop/AssetManager/AssetManagement/AssetManagement/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\jhata\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/prathamgauswami/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -50,6 +43,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[8.0.6, )"
@@ -80,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

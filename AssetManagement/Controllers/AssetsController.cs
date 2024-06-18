@@ -1,8 +1,9 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
+﻿namespace AssetManagement.Controllers;
 
-namespace AssetManagement.Controllers
-{
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using AssetManagement.Models; // Assuming your models are in the AssetManagement.Models namespace
+
     public class AssetsController : Controller
     {
 
@@ -119,4 +120,4 @@ namespace AssetManagement.Controllers
 
         }
     }
-}
+

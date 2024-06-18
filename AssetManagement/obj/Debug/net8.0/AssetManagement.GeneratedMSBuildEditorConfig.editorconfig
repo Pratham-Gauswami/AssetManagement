@@ -9,71 +9,71 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AssetManagement
 build_property.RootNamespace = AssetManagement
-build_property.ProjectDir = D:\Internship\Compucare\AssetManagement\AssetManagement\
+build_property.ProjectDir = /Users/prathamgauswami/Desktop/AssetManager/AssetManagement/AssetManagement/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Internship\Compucare\AssetManagement\AssetManagement
+build_property.MSBuildProjectDirectory = /Users/prathamgauswami/Desktop/AssetManager/AssetManagement/AssetManagement
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Internship/Compucare/AssetManagement/AssetManagement/Views/AssetRequests/AddAssetRequest.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRSZXF1ZXN0c1xBZGRBc3NldFJlcXVlc3QuY3NodG1s
+[/Users/prathamgauswami/Desktop/AssetManager/AssetManagement/AssetManagement/Views/AssetRequests/AddAssetRequest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXNzZXRSZXF1ZXN0cy9BZGRBc3NldFJlcXVlc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Internship/Compucare/AssetManagement/AssetManagement/Views/AssetRequests/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRSZXF1ZXN0c1xJbmRleC5jc2h0bWw=
+[/Users/prathamgauswami/Desktop/AssetManager/AssetManagement/AssetManagement/Views/AssetRequests/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXNzZXRSZXF1ZXN0cy9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Internship/Compucare/AssetManagement/AssetManagement/Views/Assets/AddAsset.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRzXEFkZEFzc2V0LmNzaHRtbA==
+[/Users/prathamgauswami/Desktop/AssetManager/AssetManagement/AssetManagement/Views/Assets/AddAsset.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXNzZXRzL0FkZEFzc2V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Internship/Compucare/AssetManagement/AssetManagement/Views/Assets/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRzXEluZGV4LmNzaHRtbA==
+[/Users/prathamgauswami/Desktop/AssetManager/AssetManagement/AssetManagement/Views/Assets/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXNzZXRzL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Internship/Compucare/AssetManagement/AssetManagement/Views/Assets/View.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRzXFZpZXcuY3NodG1s
+[/Users/prathamgauswami/Desktop/AssetManager/AssetManagement/AssetManagement/Views/Assets/View.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXNzZXRzL1ZpZXcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Internship/Compucare/AssetManagement/AssetManagement/Views/Employees/AddEmp.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXEFkZEVtcC5jc2h0bWw=
+[/Users/prathamgauswami/Desktop/AssetManager/AssetManagement/AssetManagement/Views/Employees/AddEmp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWVzL0FkZEVtcC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Internship/Compucare/AssetManagement/AssetManagement/Views/Employees/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXEluZGV4LmNzaHRtbA==
+[/Users/prathamgauswami/Desktop/AssetManager/AssetManagement/AssetManagement/Views/Employees/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWVzL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Internship/Compucare/AssetManagement/AssetManagement/Views/Employees/View.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXFZpZXcuY3NodG1s
+[/Users/prathamgauswami/Desktop/AssetManager/AssetManagement/AssetManagement/Views/Employees/View.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWVzL1ZpZXcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Internship/Compucare/AssetManagement/AssetManagement/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[/Users/prathamgauswami/Desktop/AssetManager/AssetManagement/AssetManagement/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Internship/Compucare/AssetManagement/AssetManagement/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[/Users/prathamgauswami/Desktop/AssetManager/AssetManagement/AssetManagement/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Internship/Compucare/AssetManagement/AssetManagement/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+[/Users/prathamgauswami/Desktop/AssetManager/AssetManagement/AssetManagement/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Internship/Compucare/AssetManagement/AssetManagement/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[/Users/prathamgauswami/Desktop/AssetManager/AssetManagement/AssetManagement/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Internship/Compucare/AssetManagement/AssetManagement/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[/Users/prathamgauswami/Desktop/AssetManager/AssetManagement/AssetManagement/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Internship/Compucare/AssetManagement/AssetManagement/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+[/Users/prathamgauswami/Desktop/AssetManager/AssetManagement/AssetManagement/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Internship/Compucare/AssetManagement/AssetManagement/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-b681j40j6l
+[/Users/prathamgauswami/Desktop/AssetManager/AssetManagement/AssetManagement/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-oc8h90zdab

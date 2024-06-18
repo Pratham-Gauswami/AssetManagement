@@ -1,8 +1,11 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
+﻿namespace AssetManagement.Controllers;
 
-namespace AssetManagement.Controllers
-{
+using AssetManagement.Models;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+ // Assuming your models are in the AssetManagement.Models namespace
+using System.Threading.Tasks;
+
     public class EmployeesController : Controller
     {
         public AssetProjectContext AssetprojContext { get; }
@@ -119,4 +122,3 @@ namespace AssetManagement.Controllers
 
         }
     }
-}
